@@ -1,5 +1,5 @@
 ## Created by Brian Kulei.
-[live demo](https://brian6382.github.io/javascript_project/).
+[live demo](https://brian6382.github.io/web_application/).
 ##  project description
 It is a web app aplication that help us know the day we were born, 
 it also give us a name accouding to the day we were born.eg if you were born on Friday, and you are a male
