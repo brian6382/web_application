@@ -1,6 +1,6 @@
-## Created by Brian Kulei.
+### Created by Brian Kulei.
 [live demo](https://brian6382.github.io/web_application/).
-##  project description
+#### project description
 It is a web app aplication that help us know the day we were born, 
 it also give us a name accouding to the day we were born.eg if you were born on Friday, and you are a male
 ua name will be Kofi.
@@ -14,7 +14,10 @@ You can forke the project.
 ## dependencies
 -Monitor The day of the week we were born.
 ## Technologies Used
-HTML, CSS AND JAVASCRIPT.
+- HTML.
+- CSS. 
+- BOOTSTRAP.
+ JAVASCRIPT.
 ## contact 
 -072555466. email:briankulei98@gmail.com. 
 # license information.
