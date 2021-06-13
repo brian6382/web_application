@@ -4,7 +4,7 @@
 It is a web app aplication that help us know the day we were born, 
 it also give us a name accouding to the day we were born.eg if you were born on Friday, and you are a male
 ua name will be Kofi.
-![Screenshot from 2021-05-02 18-19-37](https://user-images.githubusercontent.com/82508349/116818236-047fb880-ab73-11eb-846a-6299f77c5a05.png)
+![Screenshot from 2021-06-13 12-30-04](https://user-images.githubusercontent.com/82508349/121802047-37719d80-cc43-11eb-87c9-764d7f787a66.png)
 ## setup & installation
 - copy the url on arrow down.
 - Clone on your computer.
