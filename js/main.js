@@ -10,18 +10,18 @@ function validateForm() {
            // check date and print message 
             if (isValidDate(birthday)) { 
                 if (gender == "Male") {
-                    const random = Math.floor(Math.random() * men.length);        
+                    // const random = Math.floor(Math.random() * men.length);        
 
                     const day =  new Date(stringToDate(birthday, "dd/mm/yyyy","/"));
                     const dayNum = day.getDay();
-                    document.getElementById('msg').innerHTML = "Hello "+name + " your were akan name is "+men[dayNum];
+                    document.getElementById('msg').innerHTML = "Hello "+name + " your were Akan name is "+men[dayNum];
 
                   } else if (gender == "Female") {
-                    const random = Math.floor(Math.random() * men.length);        
+                    // const random = Math.floor(Math.random() * men.length);        
 
                     const day =  new Date(stringToDate(birthday, "dd/mm/yyyy","/"));
                     const dayNum = day.getDay();
-                    document.getElementById('msg').innerHTML = "Hello "+name + " your were akan name is` "+female[dayNum];
+                    document.getElementById('msg').innerHTML = "Hello "+name + " your were Akan name is` "+female[dayNum];
                   } else {
                     console.log("NONE SELECTED")
                   }
