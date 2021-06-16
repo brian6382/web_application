@@ -35,7 +35,7 @@ function validateForm() {
           }
 
        // Validates that the input string is a valid date formatted as "mm/dd/yyyy"
-    function isValidDate(dateString)
+  function isValidDate(dateString)
             {
               //12/07/2021
                 // First check for the pattern
